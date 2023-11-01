@@ -10,3 +10,6 @@ For MSQI, DI, OPTI, DIFF and so on,
 measure/main_RF.mlx
 (2) Other:
 measure/main_heuristic.mlx
+
+
+The test data folder contains the MSTSPLIB, TSPLIB, and CVRPLIB test sets used in the paper.
