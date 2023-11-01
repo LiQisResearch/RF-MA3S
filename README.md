@@ -6,9 +6,13 @@ RF-MA3S is a solver capable of solving query route tasks such as Traveling Sales
 
 # Dependencies
 python = 3.8.13
+
 pytorch = 2.0.0
+
 numpy
+
 tensorboard_logger
+
 tqdm
 
 
