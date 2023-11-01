@@ -5,8 +5,11 @@ RF-MA3S is a solver capable of solving query route tasks such as Traveling Sales
 - Multi-Attentive Adaptive Active Search (MA3S): It is tailored to enable the decoders to learn or mine data within different solution spaces, striking a balance between optimality and diversity.
 
 # Dependencies
-
-
+python = 3.8.13
+pytorch = 2.0.0
+numpy
+tensorboard_logger
+tqdm
 
 
 # Usage
